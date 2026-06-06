@@ -2,4 +2,4 @@
 
 This repository is made for practice purpose
 <br>
-Auther - Rojin
+Auther - Rojin chand
